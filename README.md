@@ -1,2 +1,2 @@
 # deltaDemo
-this is for the demo class
+this is for the students
